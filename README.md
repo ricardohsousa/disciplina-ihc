@@ -40,9 +40,9 @@ A educação profissionalizante é uma das alternativas que o brasileiro tem par
 
 ***2.1. Descrição dos Usuários: Personas***
 
-![Persona 1](https://drive.google.com/file/d/1aXqpSlpL2_FKn18xmsFofHaUkPJd_bMl/view?usp=drive_link)
+![Persona 1](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/Persona%201.jpg)
 
-![Persona 2](https://drive.google.com/file/d/1aoSS-TI3mJOaF_kCiYgimYG8wAwegHE7/view?usp=drive_link)
+![Persona 2](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/Persona%202.jpg)
 
 ***2.2. Análise de Tarefas: ANTES***
 
