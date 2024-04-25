@@ -4,15 +4,25 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Interação Homem Computador da UTFPR - Campus Cornélio Procópio. 
 
-## 1. Introdução (Até dia 04/04)
+## 1. Introdução
 
-***1.1.  Nome do Grupo***
+***1.1.  Grupo 5***
 
-Indicar o nome e github dos integrantes do grupo
+Diomenes de Araujo Marangoni
+
+Lucas Moura da Silva
+
+Rafael Cegatti Judice
+
+Renan Gabriel Bueno
+
+Ricardo Henrique A. da S. Sousa
+
+Rodolfo Depieri Gindri
 
 ***1.2.  Problema***
 
-Descreva a situação atual e o problema que sua solução computacional visa resolver.
+Atualmente diversas Intituições enfrentam dificuldades na aplicação de aulas práticas no ensino técnico. A nossa solução tem como objetivo ser um meio facilitador para a educação profissional.
 
 ***1.3.  Análise dos sistemas concorrentes***
 
@@ -20,7 +30,7 @@ Analise  duas (2) soluções concorrentes e as descreva no contexto do seu probl
 
 ***1.2.  Público Alvo***
 
-Realize uma pesquisa sobre os seus potenciais usuários considerando as alternativas abaixo:
+A educação profissionalizante é uma das alternativas que o brasileiro tem para ingressar no mercado de trabalho e também driblar o desemprego. No último Censo Escolar (2023) revelou que este público gira em torno de 2,4 milhões de alunos e com um crescimento em relação ao ano de 2021 de 27,5%.
 
 **Opção 1:** Crie um questionário e aplique-o  com potenciais usuários reais  (pelo menos 10 pessoas). Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apresente uma análise  resumida das respostas do questionário.  Observação: respostas ao questionário devem ser anônimas.
 
@@ -30,7 +40,40 @@ Realize uma pesquisa sobre os seus potenciais usuários considerando as alternat
 
 ***2.1. Descrição dos Usuários: Personas***
 
-Descreva os usuários da sua solução a partir das conclusões da análise das respostas do questionário aplicado com usuários.
+//TODO:CRIAR IMAGEM
+
+Persona A:
+
+Nome: João Miguel Moura
+
+Idade: 18 anos
+
+Gênero: Masculino
+
+Objetivo: João Miguel tem interesse em realizar um curso técnico após finalizar o ensino médio e gostaria de ter uma educação de qualidade, mas está tendo dificuldades de encontrar escolas com bons laboratórios para aulas práticas. 
+
+Motivação: A sua preocupação em ingressar no complexo mercado de trabalho atual, em que se exige cada vezes mais qualidades técnicas dos profissionais.
+
+Dificuldades: Dificuldade em achar Instituições capacitadas para prática aprofundada em habilidades técnicas avançadas.
+
+Habilidades: João tem proeficiência em tecnologia. Ela usa redes sociais, tem conhecimento em montagem de computadores e consegue absorver com facilidade conteúdos de forma remota.
+
+Persona B:
+
+Nome: Gabrielle Vieira
+
+Idade: 28 anos
+
+Profissão: Professora de Ensino Profissionalizante
+
+Objetivos: Gabrielle é ligada a novidades do Século 21 e está afim de introduzir maneiras mais descomplicado e descontraídas para aplicar conteúdos práticos e menos perigosos para os alunos que estão tendo um primeiro contato com a área.
+
+Habilidades: Com 7 anos de experiência no mercado industrial como estagiária, técnica e engenheira. Gabrielle tem um vasto conhecimento profissional e grande capacidade de transmiti-lo.
+
+Dificuldades: A principal dificuldade no dia a dia é devido a estado de conservação dos equipamentos dos laborátorios da Instituição que ela trabalha.
+
+Motivação: Transmitir para os alunos uma experiência similiar a vivênciada por ela e de maneira mais acessível.
+
 
 ***2.2. Análise de Tarefas: ANTES***
 
@@ -91,3 +134,5 @@ Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 [1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
 
 [2] Stackedit.io <edição de texto para o GitHub>
+
+https://oglobo.globo.com/brasil/educacao/noticia/2024/02/22/censo-escolar-2023-matriculas-na-educacao-profissional-crescem-275percent-no-intervalo-de-dois-anos.ghtml
