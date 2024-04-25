@@ -36,54 +36,25 @@ A educação profissionalizante é uma das alternativas que o brasileiro tem par
 
 **Opção 2:** Crie um roteiro de entrevista semiestruturada e aplique-a com um ou mais especialistas no domínio de sua solução. Lembre-se que as questões devem ajudar a entender, além do domínio, as necessidades do seu público-alvo. Anexe o roteiro e a transcrição das respostas coletas.
 
-## 2. Perfil do usuário (Até dia 18/04)
+## 2. Perfil do usuário
 
 ***2.1. Descrição dos Usuários: Personas***
 
-//TODO:CRIAR IMAGEM
+![Persona 1](https://drive.google.com/file/d/1aXqpSlpL2_FKn18xmsFofHaUkPJd_bMl/view?usp=drive_link)
 
-Persona A:
-
-Nome: João Miguel Moura
-
-Idade: 18 anos
-
-Gênero: Masculino
-
-Objetivo: João Miguel tem interesse em realizar um curso técnico após finalizar o ensino médio e gostaria de ter uma educação de qualidade, mas está tendo dificuldades de encontrar escolas com bons laboratórios para aulas práticas. 
-
-Motivação: A sua preocupação em ingressar no complexo mercado de trabalho atual, em que se exige cada vezes mais qualidades técnicas dos profissionais.
-
-Dificuldades: Dificuldade em achar Instituições capacitadas para prática aprofundada em habilidades técnicas avançadas.
-
-Habilidades: João tem proeficiência em tecnologia. Ela usa redes sociais, tem conhecimento em montagem de computadores e consegue absorver com facilidade conteúdos de forma remota.
-
-Persona B:
-
-Nome: Gabrielle Vieira
-
-Idade: 28 anos
-
-Profissão: Professora de Ensino Profissionalizante
-
-Objetivos: Gabrielle é ligada a novidades do Século 21 e está afim de introduzir maneiras mais descomplicado e descontraídas para aplicar conteúdos práticos e menos perigosos para os alunos que estão tendo um primeiro contato com a área.
-
-Habilidades: Com 7 anos de experiência no mercado industrial como estagiária, técnica e engenheira. Gabrielle tem um vasto conhecimento profissional e grande capacidade de transmiti-lo.
-
-Dificuldades: A principal dificuldade no dia a dia é devido a estado de conservação dos equipamentos dos laborátorios da Instituição que ela trabalha.
-
-Motivação: Transmitir para os alunos uma experiência similiar a vivênciada por ela e de maneira mais acessível.
-
+![Persona 2](https://drive.google.com/file/d/1aoSS-TI3mJOaF_kCiYgimYG8wAwegHE7/view?usp=drive_link)
 
 ***2.2. Análise de Tarefas: ANTES***
 
-Apresente uma análise  de como as tarefas são atualmente realizadas pelo usuário, ou seja, sem o sistema que você pretende desenvolver. A coleta de dados para essa análise deve ser baseada na parte 1 do projeto. Apresente o resultado na forma de um cenário textual ou pictográfico (*storyboard*).
+João Miguel por mais que esforce ainda mantém o receio em pôr em prática seus conhecimentos técnicos ,por isso ,não consegue se aperfeiçoar de verdade e faz peças pouco acima da média .
 
 ***2.3. Análise de Tarefas: DEPOIS***
 
-Apresente uma análise de como você prevê as tarefas sendo realizadas pelo usuário quando o seu sistema estiver disponível (ou seja, quando ele estivesse 100% implementado). Apresente o resultado na forma de um cenário textual ou pictográfico (*storyboard*).
+João Miguel encontra uma ferramenta de RV/AM e testar novas práticas e repete movimentos semelhantes aos reais ,logo suas atividades reais apresentam maior qualidade .
 
-**Sugestão:** os storyboards podem ser feitos na versão gratuita da ferramenta StoryboardThat ([https://www.storyboardthat.com/](https://www.storyboardthat.com/storyboard-creator) ).
+Gabrielle por mais que transmita seus conhecimentos de maneira clara , sempre teme que algum de seus alunos se machuque ,por isso não gosta de levá-los com frequência ao laboratório.
+
+Gabrielle após conhecer uma ferramenta VR/AM aplica em seus alunos massivamente para que eles se familiarizem com as atividades práticas ,assim diminuindo drasticamente as chances de risco de acidente.
 
 ## 3. Design (Até dia 16/05)
 
@@ -135,4 +106,4 @@ Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 
 [2] Stackedit.io <edição de texto para o GitHub>
 
-https://oglobo.globo.com/brasil/educacao/noticia/2024/02/22/censo-escolar-2023-matriculas-na-educacao-profissional-crescem-275percent-no-intervalo-de-dois-anos.ghtml
+[3] "Reportagem sobre o Censo Escola 2023.", Site: <https://oglobo.globo.com/brasil/educacao/noticia/2024/02/22/censo-escolar-2023-matriculas-na-educacao-profissional-crescem-275percent-no-intervalo-de-dois-anos.ghtml>
