@@ -56,42 +56,27 @@ Gabrielle por mais que transmita seus conhecimentos de maneira clara , sempre te
 
 Gabrielle após conhecer uma ferramenta VR/AM aplica em seus alunos massivamente para que eles se familiarizem com as atividades práticas ,assim diminuindo drasticamente as chances de risco de acidente.
 
-## 3. Design (Até dia 16/05)
+## 3. Design
 
 ***3.1. Requisitos Funcionais***
 
 | Requisitos Funcionais | Descrição |
-| --------------------- | ------------ |
-
-| RF01 | O sistema deve permitir o cadastro de usuários. |
-
-| RF02 | O sistema deve permitir o login de usuário. |
-
+| :---: | :--- |
+| RF01 | O sistema deve permitir o cadastro de usuários. 
+| RF02 | O sistema deve permitir o login de usuário. 
 | RF03 | O sistema deve permitir a edição de um perfil de usuário. |
-
 | RF04 | O sistema deve permitir a troca de senha de um usuário. |
-
 | RF05 | O sistema deve recordar de um usuário logado anteriormente. |
-
 | RF06 | O sistema deve ser dividido em áreas técnicas. |
-
 | RF07 | O sistema deve permitir que um usuário acesse mais de uma área técnica. |
-
-8)O sistema deve permitir a apresentação de cenários tridimensionais interativos.
-
-9)o sistema deve permitir a avaliação de atividades realizadas no mesmo.
-
-10)o sistema pode gerar relatórios sobre o desempenho do usuário.
-
-11)o sistema pode permitir a inserção de novos cenários por usuários.
-
-12)o sistema deve verificar os cenários inseridos antes de sua aplicação .
-
-13)o sistema pode executar dois cenários simultaneamente.
-
-14)o sistema pode avaliar o usuário.
-
-15)o sistema deve ter uma aplicação offline.
+| RF08 | O sistema deve permitir a apresentação de cenários tridimensionais interativos.
+| RF09 | O sistema deve permitir a avaliação de atividades realizadas no mesmo.
+| RF10 | O sistema pode gerar relatórios sobre o desempenho do usuário.
+| RF11| O sistema pode permitir a inserção de novos cenários por usuários.
+| RF12 | O sistema deve verificar os cenários inseridos antes de sua aplicação.
+| RF13 | O sistema pode executar dois cenários simultaneamente.
+| RF14 | O sistema pode avaliar o usuário.
+| RF15 | O sistema deve ter uma aplicação offline.
     
 ***3.2. Descrição textual***    
 
