@@ -97,7 +97,20 @@ Gabrielle após conhecer uma ferramenta VR/AM aplica em seus alunos massivamente
     
 ***3.2. Descrição textual***    
 
-Apresente uma descrição textual resumida do seu design.  Quais as funcionalidades, principais escolhas de design, dentre outros. 
+* **1. Modelos 3D Interativos:**  
+O sistema permite que os alunos explorem modelos 3D detalhados de equipamentos e sistemas técnicos. Os alunos podem rotacionar, ampliar e desmontar esses modelos para entender melhor como eles funcionam.
+
+* **2. Simulações Realistas:**  
+O sistema oferece simulações realistas que permitem aos alunos praticar a operação de máquinas e equipamentos em um ambiente seguro e controlado.
+
+* **3. Tutoriais Guiados:**  
+O sistema fornece tutoriais passo a passo que orientam os alunos através de processos técnicos complexos. Estes tutoriais utilizam a realidade aumentada para demonstrar cada passo em detalhe.
+
+* **4. Avaliações Interativas:**  
+O sistema inclui avaliações interativas que testam a compreensão dos alunos sobre os conceitos aprendidos. Estas avaliações utilizam a realidade aumentada para proporcionar uma experiência de teste mais envolvente e eficaz.
+
+* **5.Suporte Multiplataforma:**  
+O sistema é compatível com uma variedade de dispositivos, incluindo smartphones, tablets e óculos de realidade aumentada. Isso permite que os alunos aprendam a qualquer hora, em qualquer lugar.
 
 ***3.3. Design preliminar***      
 
