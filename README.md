@@ -36,6 +36,11 @@ A educação profissionalizante é uma das alternativas que o brasileiro tem par
 
 **Opção 2:** Crie um roteiro de entrevista semiestruturada e aplique-a com um ou mais especialistas no domínio de sua solução. Lembre-se que as questões devem ajudar a entender, além do domínio, as necessidades do seu público-alvo. Anexe o roteiro e a transcrição das respostas coletas.
 
+**Entrevistas**
+
+![Entrevista 1](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/Entrevista%201.pdf)
+
+![Entrevista 2](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/Entrevista%202.PDF)
 ## 2. Perfil do usuário
 
 ***2.1. Descrição dos Usuários: Personas***
