@@ -34,13 +34,24 @@ A educação profissionalizante é uma das alternativas que o brasileiro tem par
 
 **Opção 1:** Crie um questionário e aplique-o  com potenciais usuários reais  (pelo menos 10 pessoas). Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apresente uma análise  resumida das respostas do questionário.  Observação: respostas ao questionário devem ser anônimas.
 
-**Opção 2:** Crie um roteiro de entrevista semiestruturada e aplique-a com um ou mais especialistas no domínio de sua solução. Lembre-se que as questões devem ajudar a entender, além do domínio, as necessidades do seu público-alvo. Anexe o roteiro e a transcrição das respostas coletas.
-
 **Entrevistas**
+
+Foram realizadas duas entrevistas nas quais foram abordados temas como o impacto da realidade virtual e aumentada no ensino técnico, benefícios, desafios, exemplos de uso, influencia na aprendizagem e perspectivas futuras.
 
 [Entrevista 1](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/Entrevista%201.pdf)
 
 [Entrevista 2](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/Entrevista%202.PDF)
+
+**_Análise das entrevistas:_**
+
+* **Benefícios:** Experiências imersivas, aumento do engajamento, preparação para o trabalho real.
+* **Desafios:** Custos iniciais, necessidade de treinamento, integração curricular.
+* **Exemplo:** Simulação de circuitos elétricos, Apps de medição e Utilização do Google Lens.
+* **Retenção de Conhecimento:** Facilita a compreensão e memorização.
+* **Interatividade:** Ambiente dinâmico e envolvente.
+* **Performance:** Melhoria geral em comparação com métodos tradicionais.
+* **Futuro:** Integração ampla, personalização da aprendizagem.
+
 ## 2. Perfil do usuário
 
 ***2.1. Descrição dos Usuários: Personas***
