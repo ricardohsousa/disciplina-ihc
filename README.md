@@ -34,7 +34,7 @@ A educação profissionalizante é uma das alternativas que o brasileiro tem par
 
 **Opção 1:** Crie um questionário e aplique-o  com potenciais usuários reais  (pelo menos 10 pessoas). Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apresente uma análise  resumida das respostas do questionário.  Observação: respostas ao questionário devem ser anônimas.
 
-**Entrevistas**
+**1.3. Entrevistas**
 
 _Foram realizadas duas entrevistas nas quais foram abordados temas como o impacto da realidade virtual e aumentada no ensino técnico, benefícios, desafios, exemplos de uso, influencia na aprendizagem e perspectivas futuras._
 
