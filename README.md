@@ -36,11 +36,7 @@ A educação profissionalizante é uma das alternativas que o brasileiro tem par
 
 **Entrevistas**
 
-Foram realizadas duas entrevistas nas quais foram abordados temas como o impacto da realidade virtual e aumentada no ensino técnico, benefícios, desafios, exemplos de uso, influencia na aprendizagem e perspectivas futuras.
-
-[Entrevista 1](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/Entrevista%201.pdf)
-
-[Entrevista 2](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/Entrevista%202.PDF)
+_Foram realizadas duas entrevistas nas quais foram abordados temas como o impacto da realidade virtual e aumentada no ensino técnico, benefícios, desafios, exemplos de uso, influencia na aprendizagem e perspectivas futuras._
 
 **_Análise das entrevistas:_**
 
@@ -51,6 +47,11 @@ Foram realizadas duas entrevistas nas quais foram abordados temas como o impacto
 * **Interatividade:** Ambiente dinâmico e envolvente.
 * **Performance:** Melhoria geral em comparação com métodos tradicionais.
 * **Futuro:** Integração ampla, personalização da aprendizagem.
+
+
+[Entrevista 1](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/Entrevista%201.pdf)
+
+[Entrevista 2](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/Entrevista%202.PDF)
 
 ## 2. Perfil do usuário
 
