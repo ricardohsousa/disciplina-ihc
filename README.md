@@ -38,9 +38,9 @@ A educação profissionalizante é uma das alternativas que o brasileiro tem par
 
 **Entrevistas**
 
-![Entrevista 1](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/Entrevista%201.pdf)
+[Entrevista 1](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/Entrevista%201.pdf)
 
-![Entrevista 2](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/Entrevista%202.PDF)
+[Entrevista 2](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/Entrevista%202.PDF)
 ## 2. Perfil do usuário
 
 ***2.1. Descrição dos Usuários: Personas***
