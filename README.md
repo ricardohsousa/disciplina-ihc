@@ -60,7 +60,38 @@ Gabrielle após conhecer uma ferramenta VR/AM aplica em seus alunos massivamente
 
 ***3.1. Requisitos Funcionais***
 
-Apresente os requisitos funcionais do sistema (listagem de tudo o que o sistema deveria fazer).  No mínimo 15 requisitos. 
+| Requisitos Funcionais | Descrição |
+| --------------------- | ------------ |
+
+| RF01 | O sistema deve permitir o cadastro de usuários. |
+
+| RF02 | O sistema deve permitir o login de usuário. |
+
+| RF03 | O sistema deve permitir a edição de um perfil de usuário. |
+
+| RF04 | O sistema deve permitir a troca de senha de um usuário. |
+
+| RF05 | O sistema deve recordar de um usuário logado anteriormente. |
+
+| RF06 | O sistema deve ser dividido em áreas técnicas. |
+
+| RF07 | O sistema deve permitir que um usuário acesse mais de uma área técnica. |
+
+8)O sistema deve permitir a apresentação de cenários tridimensionais interativos.
+
+9)o sistema deve permitir a avaliação de atividades realizadas no mesmo.
+
+10)o sistema pode gerar relatórios sobre o desempenho do usuário.
+
+11)o sistema pode permitir a inserção de novos cenários por usuários.
+
+12)o sistema deve verificar os cenários inseridos antes de sua aplicação .
+
+13)o sistema pode executar dois cenários simultaneamente.
+
+14)o sistema pode avaliar o usuário.
+
+15)o sistema deve ter uma aplicação offline.
     
 ***3.2. Descrição textual***    
 
