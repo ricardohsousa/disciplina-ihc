@@ -114,7 +114,9 @@ O sistema é compatível com uma variedade de dispositivos, incluindo smartphone
 
 ***3.3. Design preliminar***      
 
-Apresente uma ilustrações do design: incluir os desenhos (sketches) das telas relativas à interface do seu sistema. 
+Design idealizado com uma tentativa futurística de imersão do usuário num ambiente de realidade virtual
+
+![Esboço preliminar](https://github.com/ricardohsousa/disciplina-ihc/blob/main/Documentos/esboco_prototipo.jpg) 
 
 ## 4. Protótipo (Até dia 23/05)
 
